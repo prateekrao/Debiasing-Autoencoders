@@ -16,9 +16,7 @@ not_faces = l.images[np.where(l.labels == 0)[0]]
 
 with header:
     st.title("Responsible AI")
-    st.header("Team: SaaS")
-    st.subheader("Solutions-as-a-Service")
-    
+    st.header("Debiased Facial Recognition Systems")    
 
 with main:
     st.markdown("""

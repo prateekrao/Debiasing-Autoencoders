@@ -1,0 +1,10 @@
+IPython
+tensorflow
+numpy
+matplotlib
+tqdm
+mitdeeplearning
+jupyter
+seaborn
+ipywidgets
+
